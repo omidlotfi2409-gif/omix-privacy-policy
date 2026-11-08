@@ -1,2 +1,2 @@
-# omix-privacy-policy
+ # omix-privacy-policy
 OMIX Privacy Policy
